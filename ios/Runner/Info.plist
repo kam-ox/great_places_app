@@ -28,6 +28,10 @@
 	<string>Need permisson for taking picture</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Location Access</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Location Access</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
